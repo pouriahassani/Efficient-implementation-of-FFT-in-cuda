@@ -15,8 +15,3 @@ some of the optimizations are listed below:
 #### Compile: nvcc    -O2    fft_main.cu     fft.cu    -o efft
 
 #### Execute: ./fft   0  M
-
-
-#### Contriutions
-
-contribuations are welcome. please [email](mailto:poria19964@gmail.com) me.
